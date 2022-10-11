@@ -9,7 +9,7 @@ La presente solución integra una serie de endpoints los cuales permiten la admi
 
 3. Registro de pagos realizados: Este endpoint permite al usuario Obtener la  información correspondiente a la deuda.
 
-
+<img src="https://github.com/jhonospina2711/challengeMeli/blob/main/Recursos/Diagramas/meli.jpg">
 
 
 
