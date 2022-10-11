@@ -1,4 +1,4 @@
-# challengeMeli
+# Backend Developer Challenge
 Repositorio para dar solución al Backend Developer Challenge, este repositorio contiene la información correspondiente a la solución integrando recursos como diagramas, Scripts SQL, también contiene el enlace al condigo fuente con la solución.
 
 La presente solución integra una serie de endpoints los cuales permiten la administración de un sistema de prestamos, a continuación se describen la funcionalidad de cada uno:
@@ -8,6 +8,8 @@ La presente solución integra una serie de endpoints los cuales permiten la admi
 2. Lista de préstamos: Crea un registro de un pago realizado.
 
 3. Registro de pagos realizados: Este endpoint permite al usuario Obtener la  información correspondiente a la deuda.
+
+Diagrama Base de datos Leanding
 
 <img src="https://github.com/jhonospina2711/challengeMeli/blob/main/Recursos/Diagramas/meli.jpg">
 
